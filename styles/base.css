@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Intro";
+    src: url("/fonts/Intro.otf");
+    font-weight:normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "lemonmilkrusbylyajka.ttf";
+    src: url("/fonts/lemonmilkrusbylyajka.ttf");
+    font-weight:normal;
+    font-style: normal;
+}
+
+:root{
+    --color-black: #000000;
+    --font-size-h1: 33px;
+    --font-size-h2: 25px;
+    --font-size-menu: 20px;
+    --font-size-p: 23px;
+    --font-size-sidebar:24px;
+    --width: 1440px;
+    --width-sidebar: 440px;
+    --width-main: 1000px;
+    --height-menu: 100px;
+    --height-footer: 70px;
+    --padding-left: 120px;
+    --padding-text: 50px;
+}
